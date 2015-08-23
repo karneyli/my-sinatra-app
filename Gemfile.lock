@@ -4,7 +4,6 @@ GEM
     rack (1.6.4)
     rack-protection (1.5.3)
       rack
-    ruby-oci8 (2.1.8)
     sinatra (1.4.6)
       rack (~> 1.4)
       rack-protection (~> 1.4)
@@ -15,7 +14,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ruby-oci8
   sinatra
 
 BUNDLED WITH
